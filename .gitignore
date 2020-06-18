@@ -1,0 +1,16 @@
+## macOS
+.DS_Store
+
+## User settings
+xcuserdata/
+
+## Xcode Patch
+/*.gcno
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+## Bundler
+vendor/*
+!vendor/cache
+
+## XcodeGen
+*.xcodeproj
