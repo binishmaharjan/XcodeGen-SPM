@@ -15,3 +15,4 @@ move:
 xcodegen:
 	bin/xcodegen -s ../App/MyApp/Project.yml
 	bin/xcodegen -s ../App/MyCore/Project.yml
+	bin/xcodegen -s ../App/Infrastructure/Project.yml
