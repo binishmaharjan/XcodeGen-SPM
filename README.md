@@ -7,3 +7,8 @@ The auto-generated file is named as `${PRODUCT_NAME}.h`, but the header file spe
 ##### Solution: Rename the auto-generated header file to `${PRODUCT_NAME}-Swift.h`
 
 Confirming the header file: `Build Settings > Objective-C Generated Interface Header Name`
+
+### Some UseFull Link For XCConfig file
+- https://lapcatsoftware.com/articles/xcconfig.html
+- https://www.appcoda.com/xcconfig-guide/
+- https://nshipster.com/xcconfig/
